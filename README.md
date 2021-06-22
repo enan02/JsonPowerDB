@@ -25,4 +25,4 @@ http://login2explore.com/jpdb/docs.html
 ![Screenshot (107)](https://user-images.githubusercontent.com/54997083/122912530-0d705780-d376-11eb-8315-0cad37678802.png)
 ![Screenshot (108)](https://user-images.githubusercontent.com/54997083/122912556-13663880-d376-11eb-8f25-cf1b727ec8f3.png)
 ## Dashboard
-
+![Screenshot (109)](https://user-images.githubusercontent.com/54997083/122912903-73f57580-d376-11eb-8810-3097cbb2aaef.png)
