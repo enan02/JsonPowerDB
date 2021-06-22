@@ -19,3 +19,5 @@
 ## Documentation to access all the functions of JsonPowerDB
 http://login2explore.com/jpdb/docs.html
 ## Implementation of PUT, GET, UPDATE, REMOVE in Talent API Tester
+![Screenshot (110)](https://user-images.githubusercontent.com/54997083/122912238-be2a2700-d375-11eb-97be-6eadfa5136ed.png)
+## Creating a Small project to get the user input for Employee id, Employee name and email address and PUT data in JsonPowerDB.
